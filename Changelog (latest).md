@@ -1,42 +1,31 @@
-Version 3.5.1
+Changelog for Version 3.8
+
+New Features:
+
+Reviving new UI design
+
+Added function to disable and enable Sleep mode
+
+Backup tool available for download
+
+Apps updater updated more Apps than before
 
 
-- Windows10 UltraLite Edition Vers. 1.5 released 
+Fixes:
 
-​
+The uninstallation button has been ajusted; if Ghost Toolbox is present, the button will be activated
 
-- Windows11 UltraLite Edition Vers. 1.5 released
+The three Buttons (Version x.x, Apps Updater, Settings) remain disabled when the window is open
 
-​​
+Windows 10 operating Systems and the Win10 Upgrade tool have been removed
 
-- Windows 11 Gaming Edition Vers.3.3 released 
+Win10 lock has been set up for updates button and for enable Tablet mod
 
-​
+Buttons are activated during the Operation fixed.
 
-- Aeros Updater updated to Version 3.2 [dev]
+Settings that have been made will be saved fixed
 
-​
+Windows will now rmain in their normal form (fixed)
 
-- Aeros Updater lite updated to Version 2.5
-
-​
-
-- Aeros Welcome updated to Version 1.5
-
-​
-
-- Add new App (Ghost Theme) to Windows 10 Gaming Edition
-
-​
-
-- Add new App (Aeros Downloader)
-
-​​
-
-- UltraLite Features updated to Version 3.5
-
-​
-
-- Aeros Bootlogo with HackBGRT updated to 2.5.2
 
 ​
