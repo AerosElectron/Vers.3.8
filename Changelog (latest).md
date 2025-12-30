@@ -25,7 +25,7 @@ Buttons are activated during the Operation fixed.
 
 Settings that have been made will be saved fixed
 
-Windows will now rmain in their normal form (fixed)
+Windows will now remain in their normal form (fixed)
 
 
 ​
