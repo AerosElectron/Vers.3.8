@@ -1,12 +1,8 @@
-Changelog for Version 3.8.1
+#Changelog for Version 3.8.2
 
-New Features:
+Fixes: 
 
-Toggle buttom to disable Windows Defender removed
-
-Fixes:
-
-Diabling and enabling sleep mode is working again
+- Ghost Theme Setup and Ghost Toolbox Setup path changed for Win11 
 
 
 ​
